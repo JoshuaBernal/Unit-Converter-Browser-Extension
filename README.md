@@ -7,7 +7,7 @@ Please note that this extension has only been tested in Chromium-based browsers.
 #### HOW TO INSTALL:
 1. Download and extract the ZIP file of this repository.
 3. Go to your browser's Extensions Page/Extension Manager Page.
-4. Enable `Developer Mode.`
+4. Enable `Developer Mode`.
 5. Click the `Load Unpacked` button.
 6. Choose the folder of this repository.
 
